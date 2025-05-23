@@ -2,8 +2,8 @@ import 'package:flutter/material.dart';
 import 'package:google_fonts/google_fonts.dart';
 
 // const colorSeed = Color.fromARGB(255, 26, 0, 86);
-// const colorSeed = Color.fromARGB(255, 0, 69, 143);
-const colorSeed = Color.fromARGB(255, 0, 166, 91);
+const colorSeed = Color.fromARGB(255, 0, 69, 143);
+// const colorSeed = Color.fromARGB(255, 0, 166, 91);
 // const scaffoldBackgroundColor = Color(0xFFF8F7F7);
 const scaffoldBackgroundColor = Color.fromARGB(255, 255, 255, 255);
 
